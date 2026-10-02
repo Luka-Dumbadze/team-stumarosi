@@ -1,0 +1,30 @@
+[
+    {
+        "room_number": 101,
+        "floor": 1,
+        "type": "Deluxe King",
+        "status": "occupied",
+        "guest_name": "Nino Beridze"
+    },
+    {
+        "room_number": 102,
+        "floor": 1,
+        "type": "Standard Twin",
+        "status": "vacant_clean",
+        "guest_name": null
+    },
+    {
+        "room_number": 201,
+        "floor": 2,
+        "type": "Suite",
+        "status": "occupied",
+        "guest_name": "Luka Maisuradze"
+    },
+    {
+        "room_number": 204,
+        "floor": 2,
+        "type": "Standard King",
+        "status": "occupied",
+        "guest_name": "Sandro Chikovani"
+    }
+]
